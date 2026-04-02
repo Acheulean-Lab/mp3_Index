@@ -1,4 +1,4 @@
-# Audioindex
+# Audio_index
 
 A simple audio index web app built with Next.js that loads MP3 files from `public/audio/` and displays them in an interactive list. Click an entry to expand it, then playback starts with a minimal progress bar.
 
