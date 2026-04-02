@@ -1,0 +1,13 @@
+[
+  { "id": "lysol", "title": "Lysol", "description": "Learn how Lysol is driving ROI with Google Cloud." },
+  { "id": "the-woobles", "title": "The Woobles", "description": "Learn how The Woobles is driving ROI with Google Cloud." },
+  { "id": "mclaren-racing", "title": "McLaren Racing", "description": "Learn how McLaren Racing is driving ROI with Google Cloud." },
+  { "id": "flor-keeps", "title": "Flor Keeps", "description": "Learn how Flor Keeps is driving ROI with Google Cloud." },
+  { "id": "jacobsen-salt", "title": "Jacobsen Salt Co.", "description": "Learn how Jacobsen Salt Co. is driving ROI with Google Cloud." },
+  { "id": "mlb", "title": "Major League Baseball", "description": "Learn how Major League Baseball is driving ROI with Google Cloud." },
+  { "id": "mattel", "title": "Mattel", "description": "Learn how Mattel is driving ROI with Google Cloud." },
+  { "id": "uc-riverside", "title": "UC Riverside", "description": "Learn how UC Riverside is driving ROI with Google Cloud." },
+  { "id": "volkswagen", "title": "Volkswagen of America", "description": "Learn how Volkswagen of America is driving ROI with Google Cloud." },
+  { "id": "lush", "title": "Lush", "description": "Learn how Lush is driving ROI with Google Cloud." },
+  { "id": "lowes", "title": "Lowes", "description": "Learn how Lowes is driving ROI with Google Cloud." }
+]

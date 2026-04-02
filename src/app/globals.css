@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  display: flex;
+  justify-content: center;
+}
+
+.mobile-container {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #FFFFFF;
+  position: relative;
+  overflow-x: hidden;
+}
+
